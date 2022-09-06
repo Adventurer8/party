@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1,AZ: Idman
+https://streams.livetv.az/azerbaijan/idman2_stream_sd/chunks.m3u8
+#EXTINF:-1,AZ: ATV
+https://streams.livetv.az/azerbaijan/atv_sd_stream4/playlist.m3u8
+#EXTINF:-1,AZ: AZTV
+https://streams.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8
+#EXTINF:-1,AZ: Ictimai
+https://streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
+#EXTINF:-1,AZ: XAZAR
+https://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8
+#EXTINF:-1,AZ: Ruslana
+https://streams.livetv.az/azerbaijan/ruslana_sd/playlist.m3u8
+#EXTINF:-1,AZ: Lider
+https://streams.livetv.az/azerbaijan/lider_stream/playlist.m3u8
+#EXTINF:-1,AZ: ARB
+https://streams.livetv.az/azerbaijan/arb/playlist.m3u8
+#EXTINF:-1,AZ: Space
+https://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8
+#EXTINF:-1,AZ: CBC
+https://streams.livetv.az/azerbaijan/cbc_stream2/playlist.m3u8
+#EXTINF:-1,AZ: Dalqa
+https://streams.livetv.az/azerbaijan/dalga/playlist.m3u8
+#EXTINF:-1,AZ: Dunya
+https://streams.livetv.az/azerbaijan/dunya/playlist.m3u8
+#EXTINF:-1,AZ: Medenivyet
+https://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
+#EXTINF:-1,AZ: Disney
+https://streams.livetv.az/turk/disney/playlist.m3u8
+#EXTINF:-1,AZ: Star TV
+https://streams.livetv.az/turk/star_stream/playlist.m3u8
+#EXTINF:-1,AZ: Show TV
+https://streams.livetv.az/turk/showtv_sd/playlist.m3u8
+#EXTINF:-1,AZ: QafQaz
+https://streams.livetv.az/azerbaijan/qafqaztv/playlist.m3u8
+#EXTINF:-1,AZ: Nax
+https://streams.livetv.az/azerbaijan/nax/playlist.m3u8
+#EXTINF:-1,AZ: MuzTV
+https://streams.livetv.az/azerbaijan/muztv/playlist.m3u8
+#EXTINF:-1,AZ: Live
+https://streams.livetv.az/arbkepez/live/playlist.m3u8
+#EXTINF:-1 ,AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/0MFkKAr.jpg",ARB
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/wiIJMek.jpg",ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/rDYSoRL.png",ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/rDYSoRL.png",ATV 1
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/rDYSoRL.png",ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/rDYSoRL.png",ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 ,EL TV
+http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+#EXTINF:-1 ,ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/b6i8byT.png",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 ,ON4
+http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8
+#EXTINF:-1 ,STAR TV SD
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 ,AMC
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
+#EXTINF:-1 ,CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd
+#EXTINF:-1,AZ: TRT Haber
+https://streams.livetv.az/turk/trt_haber_hd/playlist.m3u8
+#EXTINF:-1,AZ: TRT Cocuk
+https://streams.livetv.az/turk/trt_cocuk_hd/playlist.m3u8
+#EXTINF:-1,AZ: ATV Turk
+https://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
